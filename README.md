@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Doan Dinh Hoang</h1>
+<h3 align="center">A passionate frontend developer from Vietnam</h3>
+
+- 🌱 I’m currently learning **Front-End**
+
+- 💬 Ask me about **ReactJs, VueJs and Tailwindcss**
+
+- 📫 How to reach me **dinhhoang026@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/dinh-hoang-974737289) 
