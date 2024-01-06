@@ -1,3 +1,4 @@
+<h1 >About me</h1>
 <h1 >Hi 👋, I'm Doan Dinh Hoang</h1>
 <h3 >A passionate frontend developer from Vietnam</h3>
 
